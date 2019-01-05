@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="between_questions">16dp</dimen>
+    <dimen name="between_ques_and_answer">8dp</dimen>
+    <dimen name="within_answers">4dp</dimen>
+    <dimen name="default_dimens">16dp</dimen>
+    <dimen name="question_size">16sp</dimen>
+    <dimen name="answer_size">12sp</dimen>
+</resources>

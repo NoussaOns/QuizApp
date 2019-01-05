@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="question1">1) All methods inside an interface are automatically private.</string>
+    <string name="true_">True</string>
+    <string name="false_">False</string>
+    <string name="question2">2) ___________ is a collection that remembers the order of its elements.</string>
+    <string name="answer_here">Answer Here</string>
+    <string name="question3">3) Choose the collection from the following:</string>
+    <string name="list">List</string>
+    <string name="arraylist">ArrayList</string>
+    <string name="map">Map</string>
+    <string name="loop">Loop</string>
+    <string name="question4">4) One of the following is not a loop:</string>
+    <string name="do_loop">do/while</string>
+    <string name="while_loop">while</string>
+    <string name="for_">for</string>
+    <string name="if_">if</string>
+    <string name="question5">5) Every java file should contain at most one _________ class.</string>
+</resources>
